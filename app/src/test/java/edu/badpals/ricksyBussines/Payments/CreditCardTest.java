@@ -1,4 +1,4 @@
-package edu.badpals.ricksyBussines;
+package edu.badpals.ricksyBussines.Payments;
 
 import edu.badpals.ricksyBussines.Payments.CreditCard;
 import org.junit.jupiter.api.Test;

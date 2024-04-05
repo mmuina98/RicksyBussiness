@@ -35,7 +35,7 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass = 'edu.badpals.ricksyBussiness.app.Main'
+    mainClass = 'edu.badpals.ricksyBussiness.RicksyBusiness.Main'
 }
 
 tasks.named('test') {

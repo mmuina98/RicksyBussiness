@@ -46,6 +46,6 @@ public class CreditCard implements PaymentMethods {
     public String toString() {
         return  "owner: " + this.getOwner()+ "\n"+
                 "number: " + this.getNumber()+ "\n"+
-                "credit: " + this.getCredit()+ "\n";
+                "credit: " + this.getCredit()+ " " + this.SYMBOL + "\n";
     }
 }
